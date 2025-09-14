@@ -54,5 +54,5 @@ This is a reusable reference for anyone working on data science and ML projects.
 ## ⚙️ Installation  
 1. Clone this repository  
 ```bash
-git clone https://github.com/your-username/eda-feature-engineering.git
-cd eda-feature-engineering
+git clone https://github.com/kritarth6/EDA-and-Feature-Engineering.git 
+cd EDA-and-Feature-Engineering
