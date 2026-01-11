@@ -8,3 +8,48 @@ The goal is to analyze factors affecting **medical insurance charges**, clean an
 
 ## 📂 Project Structure
 
+
+---
+
+## 🎯 Objectives
+
+- Perform **EDA** to understand relationships between features such as age, BMI, smoker status, and region.
+- Handle **missing values**, duplicates, and outliers.
+- Apply **feature engineering**:
+  - Encode categorical variables (sex, smoker, region)
+  - Create new features if useful
+- Visualize insights using **Matplotlib** and **Seaborn**.
+- Prepare a **clean dataset** for downstream ML models.
+
+---
+
+## 📊 Key Visualizations
+
+- Distribution of insurance charges across age groups  
+- Correlation heatmap of numerical features  
+- Boxplots for outlier detection  
+- Pairplots to analyze feature relationships  
+
+---
+
+## 🛠️ Tech Stack
+
+**Language**
+- Python 3
+
+**Libraries**
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn (for preprocessing)
+
+---
+
+## 🚀 Usage
+
+Clone the repository:
+```bash
+git clone https://github.com/your-username/EDA-and-Feature-Engineering.git
+cd EDA-and-Feature-Engineering
+
