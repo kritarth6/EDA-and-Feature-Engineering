@@ -46,10 +46,5 @@ The goal is to analyze factors affecting **medical insurance charges**, clean an
 
 ---
 
-## 🚀 Usage
-
-Clone the repository:
-```bash
-git clone https://github.com/your-username/EDA-and-Feature-Engineering.git
 cd EDA-and-Feature-Engineering
 
